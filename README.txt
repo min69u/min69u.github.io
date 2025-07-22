@@ -20,7 +20,7 @@ aj@lkn.io | @ajlkn
 Credits:
 
 	Demo Images:
-		Unsplash (unsplash.com)
+		Desktop Wallpapers (@desktopwallpapers_8k)
 
 	Icons:
 		Font Awesome (fontawesome.io)
